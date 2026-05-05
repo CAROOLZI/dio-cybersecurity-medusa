@@ -1,0 +1,7 @@
+h 127.0.0.1: Ataca minha própria máquina (seguro e leve para o seu Celeron).
+
+-u admin: O usuário que estou testando.
+
+-P wordlist_custom.txt: A lista que seu script Python criou.
+
+-M ssh: O protocolo de teste.
